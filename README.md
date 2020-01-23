@@ -1,4 +1,4 @@
-# Exploaring-Movies-Data
+# Exploaring Movies Data
 
 This is my second project as part of Exploratory Data Analysis. The link to the first one is https://github.com/sudeshnadutta/EDA-on-IPL-Data. Do have a look and let me know your thoughts.
 
